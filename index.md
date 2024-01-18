@@ -15,10 +15,10 @@ Software Engineering, Database Systems.
 
 
 ## Fundings
-**School of Computer Science Incubator Graduate Fellowship (2022)**\
+* __School of Computer Science Incubator Graduate Fellowship (2022)__\
 Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of database systems.\
-Resulted in $50k funding from Georgia Tech.\
-**Alibaba Innovative Research Funding (2021)**\
+Resulted in $50k funding from Georgia Tech.
+* __Alibaba Innovative Research Funding (2021)__\
 Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of data processing platforms at Alibaba.\
 Resulted in $50k funding from Alibaba.
 
