@@ -16,10 +16,10 @@ Software Engineering, Database Systems.
 
 ## Fundings
 **School of Computer Science Incubator Graduate Fellowship (2022)**\
-Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of database systems.
+Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of database systems.\
 Resulted in $50k funding from Georgia Tech.\
 **Alibaba Innovative Research Funding (2021)**\
-Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of data processing platforms at Alibaba.
+Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of data processing platforms at Alibaba.\
 Resulted in $50k funding from Alibaba.
 
 
@@ -44,7 +44,7 @@ Resulted in $50k funding from Alibaba.
 * __Neurological Divide: An fMRI Study of Prose and Code Writing (ICSE'20): 678-690__\
     Ryan Krueger, Yu Huang, Xinyu Liu, Tyler Santander, Westley Weimer, and Kevin Leach  
 
-* __Distilling Neural Representations of Data Structure Manipulation using fMRI and fNIRS (ICSE'19): 396-407 **(distinguished paper award)**__
+* __Distilling Neural Representations of Data Structure Manipulation using fMRI and fNIRS (ICSE'19): 396-407 (distinguished paper award)__
     Yu Huang, Xinyu Liu, Ryan Krueger, Tyler Santander, Xiaosu Hu, Kevin Leach and Westley Weimer  
 
 
