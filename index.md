@@ -44,7 +44,7 @@ Resulted in $50k funding from Alibaba.
 * __Neurological Divide: An fMRI Study of Prose and Code Writing (ICSE'20): 678-690__\
     Ryan Krueger, Yu Huang, Xinyu Liu, Tyler Santander, Westley Weimer, and Kevin Leach  
 
-* __Distilling Neural Representations of Data Structure Manipulation using fMRI and fNIRS (ICSE'19): 396-407 (distinguished paper award)__
+* __Distilling Neural Representations of Data Structure Manipulation using fMRI and fNIRS (ICSE'19): 396-407 (distinguished paper award)__\
     Yu Huang, Xinyu Liu, Ryan Krueger, Tyler Santander, Xiaosu Hu, Kevin Leach and Westley Weimer  
 
 
