@@ -25,13 +25,13 @@ Resulted in $50k funding from Alibaba.
 
 
 ## Experience
-* I was a PhD student co-advised by Professor. Alessandro Orso and Professor. Joy Arulraj at **Georgia Tech**. My research projects led to 2 publications at a top-tier conference and received 2 research fundings.
+* I was a PhD student co-advised by Dr. Alessandro Orso and Dr. Joy Arulraj at **Georgia Tech**. My research projects led to 2 publications at a top-tier conference and received 2 research fundings.
 
 * I TA'ed CS-6300 Software Development Process class at **Georgia Tech** for 3 semesters.
 
 * I was a Research Intern at the Microsoft Gray Systems Lab, fortunately mentored by [Dr. Venkatesh Emani](https://www.microsoft.com/en-us/research/people/kvemani/). I developed a technique and tool, named Polysem, that enables queries from different modalities to execute on PowerBI. 
 
-* I was an undergraduate research assistant at **University of Michigan**, where I was fortunately mentored by [Professor. Westley Weimer](https://web.eecs.umich.edu/~weimerw/).
+* I was an undergraduate research assistant at **University of Michigan**, where I was fortunately mentored by [Dr. Westley Weimer](https://web.eecs.umich.edu/~weimerw/).
 
 
 ## Publications
