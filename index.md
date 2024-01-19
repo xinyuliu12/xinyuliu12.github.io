@@ -7,11 +7,11 @@ image:
 ---
 ## Summary
 I am looking for a full-time software development job starting in June 2024. I was a graduate research assistant at **Georgia Tech** for 4 years, and my research projects are about leveraging software testing and program analysis to improve the performance of
-database systems. I am enthusiastic about transitioning to industry and applying my extensive analytical skills to pursue a rewarding career.
+database systems. I am excited about transitioning to a career in industry.
 ## Education
 * I quit the PhD program at **Georgia Tech** and expect to graduate with a master degree in Spring 2024 .
 
-* I received a Bachelor in Computer Science from **University of Michigan**.
+* I received a Bachelor of Computer Science from **University of Michigan** in 2019.
 
 
 ## Fundings
@@ -19,7 +19,7 @@ database systems. I am enthusiastic about transitioning to industry and applying
 Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of database systems.\
 Resulted in $50k funding from Georgia Tech.
 * __Alibaba Innovative Research Funding (2021)__\
-Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of data processing platforms at Alibaba.\
+Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of large scale data processing platforms at Alibaba.\
 Resulted in $50k funding from Alibaba.
 
 
