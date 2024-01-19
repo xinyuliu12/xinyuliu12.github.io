@@ -25,7 +25,7 @@ Awarded $50k funding from Alibaba.
 
 
 ## Experience
-* I was a PhD student co-advised by Dr. Alessandro Orso and Dr. Joy Arulraj at **Georgia Tech**. My research projects led to 2 publications at a top-tier conference and received 2 research fundings.
+* I was a PhD student co-advised by Dr. Alessandro Orso and Dr. Joy Arulraj at **Georgia Tech**. My research projects received 2 research fundings and led to 2 publications at a top-tier conference.
 
 * I TA'ed CS-6300 Software Development Process class at **Georgia Tech** for 3 semesters.
 
