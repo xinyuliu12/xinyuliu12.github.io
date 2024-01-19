@@ -9,7 +9,7 @@ image:
 I am looking for a full-time software development job starting in June 2024. I was a graduate research assistant at **Georgia Tech** for 4 years, and my research projects are about leveraging software testing and program analysis to improve the performance of
 database systems. I am excited about transitioning to a career in industry.
 ## Education
-* I quit the PhD program at **Georgia Tech** and expect to graduate with a Master's degree in Spring 2024 .
+* I quit the PhD program at **Georgia Tech** and expect to graduate with a Master's in Computer Science in Spring 2024 .
 
 * I received a Bachelor of Computer Science from **University of Michigan** in 2019.
 
