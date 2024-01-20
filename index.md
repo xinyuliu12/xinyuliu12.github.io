@@ -17,10 +17,10 @@ database systems. I am excited about transitioning to a career in industry.
 ## Fundings
 * __School of Computer Science Incubator Graduate Fellowship (2022)__\
 Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of database systems.\
-Awarded $25k funding from Georgia Tech.
+Awarded a $25k funding from Georgia Tech.
 * __Alibaba Innovative Research Funding (2021)__\
 Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of large scale data processing platforms at Alibaba.\
-Awarded $50k funding from Alibaba.
+Awarded a $50k funding from Alibaba.
 
 
 
