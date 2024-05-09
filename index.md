@@ -39,7 +39,7 @@ Awarded a $84k funding from Alibaba.
 *  __A Framework For Inferring Properties of User-Defined Functions (ICSE'24): 1324-1334__\
     Xinyu Liu, Joy Arulraj, and Alessandro Orso  
 
-*  __PolySem: Efficient Polyglot Analytics on Semantic Data (Poly'23)__\ 
+*  __PolySem: Efficient Polyglot Analytics on Semantic Data (Poly'23): to appear__\ 
     Xinyu Liu, Venkatesh Emani, Avrilia Floratou, Joyce Cahoon, Philip Seamark and Carlo Curino 
 
 * __Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries (ICSE'22): 225-236__\
