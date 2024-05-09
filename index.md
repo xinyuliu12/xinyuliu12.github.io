@@ -32,7 +32,7 @@ Delivered a proposal on inferring properties of user-defined functions in order 
 Awarded a $25k funding from Georgia Tech.
 * __Alibaba Innovative Research Funding (2021)__\
 Delivered a proposal on inferring properties of user-defined functions in order to improve the performance of large scale data processing platforms at Alibaba.\
-Awarded a $50k funding from Alibaba.
+Awarded a $84k funding from Alibaba.
 
 
 ## Publications
