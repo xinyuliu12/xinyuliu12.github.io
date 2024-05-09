@@ -6,16 +6,18 @@ tags: [Jekyll, theme, responsive, blog, template]
 image: 
 ---
 ## Summary
-I am looking for a full-time software development job starting in June 2024. I was a Computer Science PhD student at **Georgia Tech** for 4 years, and my research projects were about leveraging software testing and program analysis techniques to improve the performance of
+I am looking for a full-time software development job starting in July 2024. I was a Computer Science PhD student at **Georgia Tech** for 4 years, and my research projects were about leveraging software testing and program analysis techniques to improve the performance of
 database systems. I am thrilled about transitioning to a career in industry.
 ## Education
-* I proudly quitted the PhD program at **Georgia Tech** and expect to graduate with a Master's in Computer Science in May 2024 .
+* I received a Master's of Computer Science from **Georgia Tech** in 2024.
+
+* I proudly quitted the CS PhD program at **Georgia Tech** in 2023.
 
 * I received a Bachelor of Computer Science from **University of Michigan** in 2019.
 
 
 ## Experience
-* I was a PhD student co-advised by Dr. Alessandro Orso and Dr. Joy Arulraj at **Georgia Tech**. My research projects received 2 research fundings and led to 2 publications at a top-tier conference.
+* I was a CS PhD student at **Georgia Tech**. My research projects received 2 research fundings and led to 2 publications at a top-tier conference.
 
 * I TA'ed CS-6300 Software Development Process class at **Georgia Tech** for 3 semesters.
 
