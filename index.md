@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image: 
 ---
 ## Summary
-I am looking for a full-time software development job starting in July 2024. I was a Computer Science PhD student at **Georgia Tech** for 4 years, and my research projects were about leveraging software testing and program analysis techniques to improve the performance of
+I am a database engineer at ServiceNow. I was a Computer Science PhD student at **Georgia Tech** for 4 years, and my research projects were about leveraging software testing and program analysis techniques to improve the performance of
 database systems. I am thrilled about transitioning to a career in industry.
 ## Education
 * I received a Master's of Computer Science from **Georgia Tech** in 2024.
