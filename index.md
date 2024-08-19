@@ -7,7 +7,7 @@ image:
 ---
 ## Summary
 I am a database engineer at ServiceNow. I was a Computer Science PhD student at **Georgia Tech** for 4 years, and my research projects were about leveraging software testing and program analysis techniques to improve the performance of
-database systems. I am thrilled about transitioning to a career in industry because my PhD experience is traumatic.
+database systems. I am thrilled about transitioning to a career in industry because my PhD experience was traumatic.
 ## Education
 * I received a Master's of Computer Science from **Georgia Tech** in 2024.
 
