@@ -6,8 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image: 
 ---
 ## Summary
-I am a database engineer at ServiceNow. I was a Computer Science PhD student at **Georgia Tech** for 4 years, and my research projects were about leveraging software testing and program analysis techniques to improve the performance of
-database systems. I am thrilled about transitioning to a career in industry because my PhD experience was traumatic.
+I’m a Database Engineer at **ServiceNow** who enjoys working at the intersection of systems, performance, and reliability. I previously spent four years as a Computer Science PhD student at **Georgia Tech**, researching how software testing and program analysis techniques can be used to improve database performance. I’m now focused on translating deep systems thinking into practical, high-impact work in industry.
 ## Education
 * I received a Master's of Computer Science from **Georgia Tech** in 2024.
 
