@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Xinyu Liu
-description: "Xinyu Liu's website"
+title: Chris Liu
+description: "Chris Liu's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: 
 ---
 ## Summary
-I’m a Database Engineer at **ServiceNow** who enjoys working at the intersection of systems, performance, and reliability. I previously spent four years as a Computer Science PhD student at **Georgia Tech**, researching how software testing and program analysis techniques can be used to improve database performance. I’m now focused on translating deep systems thinking into practical, high-impact work in industry.
+I was a Database Engineer at **ServiceNow** who enjoys working at the intersection of systems, performance, and reliability. I previously spent four years as a Computer Science PhD student at **Georgia Tech**, researching how software testing and program analysis techniques can be used to improve database performance. I’m now focused on translating deep systems thinking into practical, high-impact work in industry.
 ## Education
 * I received a Master's of Computer Science from **Georgia Tech** in 2024.
 
